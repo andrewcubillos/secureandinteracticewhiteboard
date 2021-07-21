@@ -114,6 +114,6 @@ class Editor extends React.Component {
 }
 
 ReactDOM.render(
-        <Editor name="Daniel"/>,
+        <Editor name="Andres"/>,
         document.getElementById('root')
         );
